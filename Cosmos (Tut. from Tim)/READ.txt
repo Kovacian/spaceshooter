@@ -1,2 +1,7 @@
 IMPORTANT:
+-Install python
+-Install pygame
+
+WINDOWS: Run bat file
+MAC: Run python script in VS code with debug option (though no right control so kinda useless)
 Extract "spaceshooter" file from Cosmo folder into the Downloads folder
