@@ -1,1 +1,2 @@
-Run in VSCODE
+IMPORTANT:
+Extract "spaceshooter" file from Cosmo folder into the Downloads folder
